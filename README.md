@@ -15,4 +15,4 @@
 
 虽然这些免费平台方便又丰富，但若你更重视影片清晰度、无广告干扰与完整收藏，支持正版平台如 FANZA 或 MGStage 会是更理想的选择。免费与付费之间，取决于你的使用频率和重视程度，但无论选择哪个平台，保障自己的隐私与安全永远是第一要务。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/ppw20250704/ppw11 ）</span>
